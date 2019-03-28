@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="lpk" type="JSON" />
+      <mapping ext="meta" type="JSON" />
+      <mapping pattern="commands" type="PLAIN_TEXT" />
+      <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping pattern="MessageItemModel" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
